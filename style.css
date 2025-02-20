@@ -1,0 +1,18 @@
+body.dark-mode {
+  background-color: #121212;
+  color: #ffffff;
+}
+.dark-mode .form-control,
+.dark-mode .form-check-label,
+.dark-mode .btn {
+  background-color: #333333;
+  color: #ffffff;
+}
+.dark-mode .progress-bar {
+  background-color: #444444;
+}
+.dark-mode-btn {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
