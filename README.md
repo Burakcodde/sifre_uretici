@@ -26,10 +26,6 @@ Bu proje, kullanıcıların rastgele şifreler oluşturmasına olanak tanıyan b
 2. Proje dizinine gidin.
 3. `index.html` dosyasını bir tarayıcıda açın.
 
-## Dosya Yapısı
-
-Şifre Üretici/ │ ├── index.html ├── script.js ├── style.css (isteğe bağlı, eğer özel stiller eklemek isterseniz) └── README.md
-
 ## Katkıda Bulunma
 
 Katkıda bulunmak isterseniz, lütfen bir pull request gönderin. Her türlü katkı memnuniyetle karşılanır!
